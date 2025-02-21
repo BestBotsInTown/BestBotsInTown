@@ -1,7 +1,7 @@
 ![BestBotsInTown logo](https://github.com/user-attachments/assets/f85f2bb6-4b03-4f93-9f27-3e26214d848e)
 
 
-X/Twitter: https://x.com/BestBotsInTown
+X (former Twitter): https://x.com/BestBotsInTown
 
 Telegram: https://t.me/BestBotsInTown
 
