@@ -1,6 +1,17 @@
-## Hi there 👋
+![BestBotsInTown logo](https://github.com/user-attachments/assets/f85f2bb6-4b03-4f93-9f27-3e26214d848e)
+
+
+X/Twitter: https://x.com/BestBotsInTown
+
+Telegram: https://t.me/BestBotsInTown
+
+GitHub: https://github.com/BestBotsInTown
+
+More info coming soon...
 
 <!--
+## Hi there 👋
+
 **BestBotsInTown/BestBotsInTown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
