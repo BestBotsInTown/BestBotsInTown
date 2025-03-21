@@ -24,7 +24,7 @@
 
 - ⚡ A few of the social media API bots are
 
-  - ***Several social media and dating apps we can list here at GitHub due to trademark issues. -> Please ask us via Telegram (contact listed below)***
+  - ***Several social media and dating apps we can't list here at GitHub due to trademark issues. -> Please ask us via Telegram (contact listed below)***
   - White label solutions for resellers and agencies available (neutral design, no copyright notices, no URL/contact mention, optionally your corporate design etc.)
   - Countless custom (exclusive) bot solutions we are not allowed to disclose
   - More bots will be announced soon
